@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Portkey",
+      "url": "https://github.com/amailk/PortKey",
+      "image": "portkey.jpg",
+      "alt": "Portkey Application Image",
+      "description": "Travel tracking application at its early stages. In the future I plan to add features to pin visited cities and countries on a map as well as share your food, stays and visited places and adventures."
+    },
+    {
+      "id": 2,
+      "name": "Portfolio Site",
+      "url": "https://github.com/amailk/Portfolio-Site",
+      "image": "portfolio.jpg",
+      "alt": "Image for my portfolio site",
+      "description": "Portfolio site containing projects I have created through my Front End Development journey."
+    },
+    {
+      "id": 3,
+      "name": "Writer's Block",
+      "url": "https://github.com/amailk/the-writers-block",
+      "image": "writersblock.jpg" ,
+      "alt": "writers block blog image",
+      "description": "Blog displaying the written work of a writer."
+    },
+    {
+      "id": 4,
+      "name": "Arcade Game",
+      "url": "https://github.com/amailk/Classic-Arcade-Game",
+      "image": "frogger.jpg",
+      "alt": "frogger game image",
+      "description": "Classic Arcade Game. Avoid the bugs, collect the stars and cross the road."
+    }
+  ]
+}

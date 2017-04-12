@@ -10,6 +10,7 @@ class App extends Component {
       <div className="App">
         <Header/>
         <ProjectList projects={data.projects}/>
+        <footer>Ama Liyanage 2016</footer>
       </div>
     );
   }
